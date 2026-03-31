@@ -37,3 +37,12 @@ This suggests that static early organ dysfunction is useful for identifying seps
 ## Takeaway
 Feature usefulness depends on the prediction target.  
 Strong features for diagnosis are not always strong features for prognosis.
+
+## Additional experiments
+- Full SOFA-based model: 0.807
+- 3-organ model: 0.765
+- Direct criteria-based model: 0.740
+
+👉 한 줄 설명:
+
+다양한 feature 구성에서도 동일한 경향이 관찰됨
