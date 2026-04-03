@@ -1,0 +1,17 @@
+feature,importance
+sofa_24hours,0.35704422
+meanbp_min,0.1349713
+gcs_min,0.07837332
+bilirubin_max,0.077223584
+resp_rate_mean,0.052612327
+creatinine_max,0.048265092
+heart_rate_max,0.040540762
+spo2_mean,0.029217051
+temperature_max,0.028021706
+mbp_mean,0.02773034
+uo_24hr,0.026396388
+heart_rate_mean,0.026157612
+resp_rate_max,0.021617755
+heart_rate_min,0.018534467
+platelet_min,0.018225554
+mbp_min,0.015068405
